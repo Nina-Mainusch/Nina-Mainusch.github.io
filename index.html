@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-  <!-- Basic Page Needs
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Your page title here :)</title>
+  <title>Nina Mainusch</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -19,28 +21,80 @@
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="style.css" />
 
-  <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
 
 </head>
 <body>
-
-  <!-- Primary Page Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="container">
-    <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-        <h4>Basic Page</h4>
-        <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
-      </div>
-    </div>
-  </div>
+      <div class="nav-wrapper">
+          <div class="left-side">
+              <div class="nav-link-wrapper active-nav-link">
+                  <a href="index.html">Home</a>
+              </div>
+              <div class="nav-link-wrapper">
+                  <a href="about.html">About</a>
+              </div>
+          </div>
 
-<!-- End Document
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+          <div class="right-side">
+              <div class="brand">
+                  <div>NINA MOGAN MAINUSCH</div>
+              </div>
+          </div>
+      </div>
+
+      <div class="content-wrapper">
+        <div class="portfolio-items-wrapper">
+          <div class="portfolio-item-wrapper">
+
+            <div class="portfolio-img-background" style="background-image:url(imgs/books.jpg)"></div>
+
+            <div class="img-text-wrapper">
+              <div class="subtitle">I did XXX</div>
+            </div>
+
+          </div>
+
+          <div class="portfolio-item-wrapper">
+
+            <div class="portfolio-img-background" style="background-image:url(imgs/books.jpg)"></div>
+
+            <div class="img-text-wrapper">
+              <div class="subtitle">I once did XXX</div>
+            </div>
+
+          </div>
+
+          <div class="portfolio-item-wrapper">
+
+            <div class="portfolio-img-background" style="background-image:url(imgs/books.jpg)"></div>
+
+            <div class="img-text-wrapper">
+              <div class="subtitle">I also did XXX</div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+  </div>
 </body>
+<script>
+    const portfolioItems = document.querySelectorAll(".portfolio-item-wrapper");
+
+    portfolioItems.forEach(portfolioItem => {
+      portfolioItem.addEventListener('mouseover', () => {
+        portfolioItem.childNodes[1].classList.add("img-darken");
+      })
+    })
+
+    portfolioItems.forEach(portfolioItem => {
+      portfolioItem.addEventListener('mouseout', () => {
+        setTimeout(function() {
+          portfolioItem.childNodes[1].classList.remove("img-darken");
+        }, 100);
+      })
+    })
+
+</script>
 </html>
