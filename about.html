@@ -44,7 +44,7 @@
           <div>
             <a href="./imgs/cv/CV.pdf" download="Mainusch_CV">Download my CV!</a>
             <p>Thanks for downloading! If your download doesn't start shortly,
-              <a id="downloadLink" href="./imgs/cv/CV.pdf" target="_blank" 
+              <a id="downloadLink" href="./imgs/cv/CV.pdf" target="_blank"
                 type="application/octet-stream" download="yourpdf.pdf">click here
               </a>.
             </p>
@@ -54,4 +54,23 @@
       </div>
   </div>
 </body>
+<script>
+    const profileImages = document.querySelectorAll(".profile-image-wrapper");
+
+    profileImages.forEach(profileImage => {
+      profileImage.addEventListener('mouseover', () => {
+        profileImage.childNodes[1].classList.add("img-darken");
+      })
+    })
+
+    profileImages.forEach(profileImage => {
+      profileImage.addEventListener('mouseout', () => {
+        setTimeout(function() {
+          profileImage.childNodes[1].classList.remove("img-darken");
+        }, 100);
+      })
+    })
+
+
+</script>
 </html>
