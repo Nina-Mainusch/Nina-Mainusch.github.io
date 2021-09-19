@@ -9,6 +9,6 @@
     <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
     <author>Author</author>
     <guid>http://example.org/posts/decentralized_opt_proj/</guid>
-    <description><![CDATA[Abstract Decentralized machine learning is an important type of machine learning used to address problems such as data locality, ownership, privacy and high communication costs. In our project for the class CS-439 - Optimization for Machine Learning at EPFL two colleagues and I contributed an empirical evaluation of the impact of topology and differential privacy on model convergence and error in a decentralized learning system. Check out our github repository or read our research paper.]]></description>
+    <description><![CDATA[Decentralized machine learning is an important type of machine learning used to address problems such as data locality, ownership, privacy and high communication costs. We contribute an empirical evaluation of the impact of topology and differential privacy on model convergence and error in a decentralized learning system.]]></description>
 </item></channel>
 </rss>

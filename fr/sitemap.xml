@@ -67,6 +67,19 @@
                     hreflang="fr"
                     href="http://example.org/fr/documentation/"
                     /></url><url>
+            <loc>http://example.org/fr/documentation/test/</loc><lastmod>2021-08-28T12:57:25&#43;02:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://example.org/documentation/test/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="http://example.org/de/documentation/test/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="http://example.org/fr/documentation/test/"
+                    /></url><url>
             <loc>http://example.org/fr/documentation/test/test/</loc><lastmod>2021-08-28T12:57:25&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -79,6 +92,32 @@
                     rel="alternate"
                     hreflang="fr"
                     href="http://example.org/fr/documentation/test/test/"
+                    /></url><url>
+            <loc>http://example.org/fr/test/</loc><lastmod>2021-08-28T12:57:25&#43;02:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://example.org/test/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="http://example.org/de/test/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="http://example.org/fr/test/"
+                    /></url><url>
+            <loc>http://example.org/fr/test/</loc><lastmod>2021-08-28T12:57:25&#43;02:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://example.org/test/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="http://example.org/de/test/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="http://example.org/fr/test/"
                     /></url><url>
             <loc>http://example.org/fr/categories/legal-information/</loc><lastmod>2021-08-28T12:57:25&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
