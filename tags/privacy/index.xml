@@ -10,5 +10,15 @@
     <author>Author</author>
     <guid>http://example.org/posts/decentralized_opt_proj/</guid>
     <description><![CDATA[Abstract Decentralized machine learning is an important type of machine learning used to address problems such as data locality, ownership, privacy and high communication costs. In our project for the class CS-439 - Optimization for Machine Learning at EPFL two colleagues and I contributed an empirical evaluation of the impact of topology and differential privacy on model convergence and error in a decentralized learning system. Check out our github repository or read our research paper.]]></description>
+</item><item>
+    <title>Legal Information</title>
+    <link>http://example.org/documentation/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/documentation/</guid>
+    <description><![CDATA[Information according to §5 TMG Nina Mogan Mainusch
+Nina.Mainusch (at) protonmail (dot) com
+Responsible for the content according to § 55 Abs. 2 RStV: Nina Mainusch
+Disclaimer Liability for contents As a service provider, we are responsible for our own content on these pages in accordance with the general laws pursuant to § 7 para. 1 TMG. According to §§ 8 to 10 TMG, however, we are not obliged as a service provider to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.]]></description>
 </item></channel>
 </rss>

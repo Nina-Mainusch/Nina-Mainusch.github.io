@@ -11,7 +11,35 @@
     <guid>http://example.org/tags/decentralized/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>machinelearning</title>
+    <title>Decentralized_ML</title>
+    <link>http://example.org/tags/decentralized_ml/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/decentralized_ml/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>deepLearning</title>
+    <link>http://example.org/tags/deeplearning/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/deeplearning/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Federated</title>
+    <link>http://example.org/tags/federated/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/federated/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>legals</title>
+    <link>http://example.org/tags/legals/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/legals/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>MachineLearning</title>
     <link>http://example.org/tags/machinelearning/</link>
     <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
     <author>Author</author>

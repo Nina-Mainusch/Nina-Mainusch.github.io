@@ -54,6 +54,32 @@
                     hreflang="de"
                     href="http://example.org/de/posts/decentralized_opt_proj/"
                     /></url><url>
+            <loc>http://example.org/de/categories/legal-information/</loc><lastmod>2021-08-28T12:57:25&#43;02:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://example.org/categories/legal-information/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="http://example.org/fr/categories/legal-information/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="http://example.org/de/categories/legal-information/"
+                    /></url><url>
+            <loc>http://example.org/de/tags/legals/</loc><lastmod>2021-08-28T12:57:25&#43;02:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://example.org/tags/legals/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="http://example.org/fr/tags/legals/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="http://example.org/de/tags/legals/"
+                    /></url><url>
             <loc>http://example.org/de/tags/machinelearning/</loc><lastmod>2021-08-28T12:57:25&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -108,6 +134,10 @@
                     /></url><url>
             <loc>http://example.org/de/documentation/test/test/</loc><lastmod>2021-08-28T12:57:25&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
+                        hreflang="en"
+                        href="http://example.org/documentation/test/test/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="fr"
                         href="http://example.org/fr/documentation/test/test/"
                         /><xhtml:link
@@ -129,6 +159,10 @@
                     href="http://example.org/de/tags/"
                     /></url><url>
             <loc>http://example.org/de/documentation/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://example.org/documentation/"
+                        /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="http://example.org/fr/documentation/"

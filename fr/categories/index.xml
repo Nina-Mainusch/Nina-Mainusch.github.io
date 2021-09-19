@@ -10,5 +10,12 @@
     <author>Auteur</author>
     <guid>http://example.org/fr/categories/decentralized-ml/</guid>
     <description><![CDATA[]]></description>
+</item><item>
+    <title>legal information</title>
+    <link>http://example.org/fr/categories/legal-information/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Auteur</author>
+    <guid>http://example.org/fr/categories/legal-information/</guid>
+    <description><![CDATA[]]></description>
 </item></channel>
 </rss>

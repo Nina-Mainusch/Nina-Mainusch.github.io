@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Decentralized_ML - Tag - Nina Mainusch</title>
+        <link>http://example.org/tags/decentralized_ml/</link>
+        <description>Decentralized_ML - Tag - Nina Mainusch</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</lastBuildDate><atom:link href="http://example.org/tags/decentralized_ml/" rel="self" type="application/rss+xml" /><item>
+    <title>Legal Information</title>
+    <link>http://example.org/documentation/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/documentation/</guid>
+    <description><![CDATA[Information according to §5 TMG Nina Mogan Mainusch
+Nina.Mainusch (at) protonmail (dot) com
+Responsible for the content according to § 55 Abs. 2 RStV: Nina Mainusch
+Disclaimer Liability for contents As a service provider, we are responsible for our own content on these pages in accordance with the general laws pursuant to § 7 para. 1 TMG. According to §§ 8 to 10 TMG, however, we are not obliged as a service provider to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.]]></description>
+</item></channel>
+</rss>
