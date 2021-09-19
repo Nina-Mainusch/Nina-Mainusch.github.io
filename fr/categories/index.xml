@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Catégorie - Nina Mainusch</title>
+        <link>http://example.org/fr/categories/</link>
+        <description>Categories - Catégorie - Nina Mainusch</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</lastBuildDate><atom:link href="http://example.org/fr/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Decentralized ML</title>
+    <link>http://example.org/fr/categories/decentralized-ml/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Auteur</author>
+    <guid>http://example.org/fr/categories/decentralized-ml/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

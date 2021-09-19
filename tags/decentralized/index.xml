@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>decentralized - Tag - Nina Mainusch</title>
+        <link>http://example.org/tags/decentralized/</link>
+        <description>decentralized - Tag - Nina Mainusch</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</lastBuildDate><atom:link href="http://example.org/tags/decentralized/" rel="self" type="application/rss+xml" /><item>
+    <title>Decentralized ML: Experiments on Topology and Privacy</title>
+    <link>http://example.org/posts/decentralized_opt_proj/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/posts/decentralized_opt_proj/</guid>
+    <description><![CDATA[Abstract Decentralized machine learning is an important type of machine learning used to address problems such as data locality, ownership, privacy and high communication costs. In our project for the class CS-439 - Optimization for Machine Learning at EPFL two colleagues and I contributed an empirical evaluation of the impact of topology and differential privacy on model convergence and error in a decentralized learning system. Check out our github repository or read our research paper.]]></description>
+</item></channel>
+</rss>

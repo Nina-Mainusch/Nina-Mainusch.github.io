@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Nina Mainusch</title>
+        <link>http://example.org/de/tags/</link>
+        <description>Tags - Tag - Nina Mainusch</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</lastBuildDate><atom:link href="http://example.org/de/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>decentralized</title>
+    <link>http://example.org/de/tags/decentralized/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Autor</author>
+    <guid>http://example.org/de/tags/decentralized/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>machinelearning</title>
+    <link>http://example.org/de/tags/machinelearning/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Autor</author>
+    <guid>http://example.org/de/tags/machinelearning/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>privacy</title>
+    <link>http://example.org/de/tags/privacy/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Autor</author>
+    <guid>http://example.org/de/tags/privacy/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

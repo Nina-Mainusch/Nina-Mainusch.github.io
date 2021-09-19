@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Nina Mainusch</title>
+        <link>http://example.org/de/</link>
+        <description>Nina</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</lastBuildDate>
+            <atom:link href="http://example.org/de/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Decentralized ML: Experiments on Topology and Privacy</title>
+    <link>http://example.org/de/posts/decentralized_opt_proj/</link>
+    <pubDate>Sat, 28 Aug 2021 12:57:25 &#43;0200</pubDate>
+    <author>Autor</author>
+    <guid>http://example.org/de/posts/decentralized_opt_proj/</guid>
+    <description><![CDATA[Zusammenfassung Dezentrales maschinelles Lernen ist eine wichtige Art des maschinellen Lernens, um Probleme wie Datenlokalität, Eigentum, Privatsphäre und hohe Kommunikationskosten zu lösen. In unserem Projekt für den Kurs [CS-439 - Optimization for Machine Learning] (https://edu.epfl.ch/coursebook/en/optimization-for-machine-learning-CS-439) an der EPFL haben zwei Mitstudierende und ich eine empirische Bewertung des Einflusses von Topologie und differentieller Privatsphäre auf Modellkonvergenz und Fehler in einem dezentralen Lernsystem durchgeführt. Schau dir gerne unseren Github Ordner oder unser Forschungspapier an.]]></description>
+</item></channel>
+</rss>
