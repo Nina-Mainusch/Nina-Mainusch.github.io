@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rechtsauskünfte on Nina Mainusch</title>
+    <title>Documentations on Nina Mainusch</title>
     <link>http://example.org/de/documentation/</link>
-    <description>Recent content in Rechtsauskünfte on Nina Mainusch</description>
+    <description>Recent content in Documentations on Nina Mainusch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 02 Aug 2019 11:04:49 +0800</lastBuildDate><atom:link href="http://example.org/de/documentation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rechtsauskünfte</title>
-      <link>http://example.org/de/documentation/test/</link>
-      <pubDate>Sat, 28 Aug 2021 12:57:25 +0200</pubDate>
-      
-      <guid>http://example.org/de/documentation/test/</guid>
-      <description>Angaben gemäß §5 TMG Nina Mogan Mainusch
-Nina.Mainusch (at) protonmail (dot) com
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Nina Mainusch
-Haftungsausschluss Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 28 Aug 2021 12:57:25 +0200</lastBuildDate><atom:link href="http://example.org/de/documentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rechtsauskünfte</title>
       <link>http://example.org/de/documentation/test/test/</link>
