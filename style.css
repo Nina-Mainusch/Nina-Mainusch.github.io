@@ -149,3 +149,7 @@ ul {
     display: inline-block;
     width: 1.7em;
   }
+
+  .puffer {
+    margin-bottom: 100px;
+  }
