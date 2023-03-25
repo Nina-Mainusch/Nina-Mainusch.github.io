@@ -1,4 +1,151 @@
+body {
+    font: 16px Verdana, Arial, sans-serif;
+}
+
 img {
     max-width: 100%;
     max-height: 100%;
 }
+
+#dhead {
+margin-top: 20px;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+#dpic {
+    grid-column: span 12;
+    text-align: center;
+}
+
+#dpic img {
+    width: 240px;
+    height: 240px;
+    border-radius: 60px;
+    /* border-radius: 120px; */
+}
+
+#ddesc {
+    grid-column: span 12;
+    padding-top: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 34px;
+    font-weight: normal;
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    font-weight: normal;
+    font-style: italic;
+    color: #2c8169;
+    font-size: 18px;
+    padding: 0;
+    margin: 5px 0 10px 0;
+}
+
+.iico {
+    width: 40px;
+    height: 40px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.entry {
+
+}
+.row {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.timespan {
+    grid-column: span 1;
+    font-size: 14px;
+    text-align: right;
+    padding-right: 5px;
+    color: #515151;
+}
+
+.ico {
+    grid-column: span 1;
+    vertical-align: top;
+    border-left: 3px solid #bdbdbd;
+    position: relative;
+}
+
+.entry-dot {
+    position: absolute;
+    top: 0px;
+    left: -8px;
+    width: 10px;
+    height: 10px;
+    border-radius: 7px;
+    background-color: #bcbcbc;
+    border: 2px solid white;
+}
+
+.desc {
+    grid-column: span 10;
+    vertical-align: top;
+    font-size: 17px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+
+.ctitle {
+    font-size: 36px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.pub {
+    border-left: 4px solid #66bca4;
+    padding: 2px 0px 2px 15px;
+    margin-bottom: 10px;
+    margin-left: 1em;
+}
+
+a {
+    color: rgb(15, 15, 15);
+  }
+
+.pub-title {
+    display: inline;
+    color: #000000;
+}
+
+.pub-venue {
+    display: block;
+    color: #2c8169;
+}
+
+.pub-authors {
+    display: block;
+    color: rgb(7, 45, 58);
+}
+
+ul {
+    list-style: none;
+  }
+
+  ul li::before {
+    content: "\2022";
+    color: #66bca4;
+    font-weight: bold;
+    display: inline-block;
+    width: 1.7em;
+  }
