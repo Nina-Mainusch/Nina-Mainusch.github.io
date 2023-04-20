@@ -146,6 +146,9 @@ a {
     display: block;
     color: #2c8169;
 }
+.pub-poster {
+    color: #31829d;
+}
 
 .pub-authors {
     display: block;
